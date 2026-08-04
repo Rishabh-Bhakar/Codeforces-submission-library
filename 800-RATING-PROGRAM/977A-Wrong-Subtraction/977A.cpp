@@ -37,10 +37,10 @@ O(1)
 using namespace std;
 int main(){
     int num;
-    cout<<"Enter any digit number: ";
+    //cout<<"Enter any digit number: ";
     cin>>num;
     int times;
-    cout<<"Enter how many times you want to subtract: ";
+    //cout<<"Enter how many times you want to subtract: ";
     cin>>times;
     while(times--){
         int rem=num%10;
