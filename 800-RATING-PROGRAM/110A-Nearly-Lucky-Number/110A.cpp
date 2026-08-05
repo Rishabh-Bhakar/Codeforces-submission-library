@@ -40,7 +40,7 @@ O(1)
 #include <iostream>
 using namespace std;
 int main(){
-    int num;
+    long long num;
    // cout<<"Enter a number: ";
     cin>>num;
     int count=0;
